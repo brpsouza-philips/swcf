@@ -1,0 +1,20 @@
+[
+    {
+        "id": "c31abbda7bd356c4",
+        "type": "DBPanel Interceptor",
+        "z": "9e158a9205e5dfd3",
+        "name": "PESSOA_FISICA_INF",
+        "name": "",
+        "url": "",
+        "view": "PESSOA_FISICA_INF_V",
+        "executionOrder": 0,
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 590,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    }
+]
