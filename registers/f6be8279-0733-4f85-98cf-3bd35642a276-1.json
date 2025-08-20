@@ -1,0 +1,119 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "06/02/2025 14:29:34",
+      "sequence" : 0,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "table_name" : "CMDK_OBJECT_INTERCEPTOR",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "3aa3328f-17a0-4e69-b472-c88775cc84d0"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "446e39024c91",
+      "os_user" : "root",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 202
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 202
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "06/02/2025 14:29:32"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "cmdk_adm"
+    }, {
+      "column_name" : "NM_OBJECT",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "ABDATA_IMPORT_PROCESSING"
+    }, {
+      "column_name" : "OBJECT_TYPE",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "PROCEDURE"
+    }, {
+      "column_name" : "IE_INTERCEPTED",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "Y"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "06/02/2025 14:29:34",
+      "sequence" : 1,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "table_name" : "CMDK_OBJECT_INTERCEPTOR",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "826389a9-e74f-49e2-bcfc-d7080eaa3bce"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "446e39024c91",
+      "os_user" : "root",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5546,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5546,
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "06/02/2025 14:29:32",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_OBJECT",
+      "data_type" : "VARCHAR2",
+      "new_value" : "ABDATA_IMPORT_PROCESSING",
+      "old_value" : null
+    }, {
+      "column_name" : "OBJECT_TYPE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "PROCEDURE",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_INTERCEPTED",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Y",
+      "old_value" : null
+    } ]
+  } ]
+}
