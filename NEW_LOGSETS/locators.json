@@ -1,0 +1,65 @@
+{
+  "LOCATOR_LOCALE" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 18:42:08",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "24201",
+    "NR_SEQUENCIA" : "6407",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 18:42:08"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 19:08:24",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "24201",
+    "NR_SEQUENCIA" : "6408",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 19:08:24"
+  }, {
+    "$operation" : "UPDATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 19:13:32",
+    "DS_LOCALE" : "GBL",
+    "NR_SEQ_TIPO_LOCALIZAR" : "24201",
+    "NR_SEQUENCIA" : "6409",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 19:13:32"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 19:16:31",
+    "DS_LOCALE" : "GBL",
+    "NR_SEQ_TIPO_LOCALIZAR" : "24201",
+    "NR_SEQUENCIA" : "6410",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 19:16:31"
+  } ],
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "DELETE",
+    "IE_TIPO_ATRIBUTO" : "VARCHAR2",
+    "DS_ITEM" : "description",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "NR_SEQ_TIPO_LOCALIZAR" : "24201",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "NM_USUARIO" : "brpsouza",
+    "IE_GRID" : "N",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "DS",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 19:45:32",
+    "IE_TIPO_SELECAO" : "",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "38997",
+    "IE_TIPO_RESTRICAO" : "1",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "IE_RESULTADO" : "N",
+    "DT_ATUALIZACAO" : "03/11/2025 18:02:56",
+    "IE_DESC_RESULT" : "N"
+  } ]
+}
