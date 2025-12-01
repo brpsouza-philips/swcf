@@ -1,0 +1,42 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "20941",
+    "NM_DOMINIO" : "Domain Bruno Test",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "brpsouza",
+    "DS_DOMINIO" : "Domain done for test",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "20941",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "brpsouza",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "26/11/2025 14:28:27",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "20941",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "brpsouza",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "26/11/2025 14:11:58",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "20941",
+      "VL_DOMINIO" : "2.1",
+      "NM_USUARIO" : "brpsouza",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "26/11/2025 14:21:41",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "26/11/2025 14:05:06",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
