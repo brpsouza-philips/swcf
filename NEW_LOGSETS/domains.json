@@ -1,0 +1,12 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "10379",
+    "VL_DOMINIO" : "M",
+    "NM_USUARIO" : "brpsouza",
+    "CD_EXP_VALOR_DOMINIO" : "1063381",
+    "DS_VALOR_DOMINIO" : "Maybe",
+    "DT_ATUALIZACAO" : "03/03/2026 09:00:49",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
