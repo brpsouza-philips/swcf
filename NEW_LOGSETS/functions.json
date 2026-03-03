@@ -1,0 +1,42 @@
+{
+  "PARTNER_FUNCTION" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "03/03/2026 12:10:53",
+    "IE_PARTNER_FUNCTION" : "S",
+    "NM_USUARIO" : "brpsouza",
+    "NR_SEQUENCIA" : "3907",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "DT_ATUALIZACAO" : "03/03/2026 12:10:53",
+    "CD_FUNCAO" : "99892"
+  } ],
+  "FUNCAO" : [ {
+    "$operation" : "CREATE",
+    "IE_LIB_CLIENTE" : "N",
+    "IE_BLOQUEADA" : "N",
+    "IE_MAXIMIZAR" : "N",
+    "IE_SITUACAO_SWING" : "I",
+    "DS_FUNCAO" : "Teste9999999",
+    "DS_ACTION" : "/cmdkltdf151",
+    "NR_SEQ_MODULO" : "15",
+    "NR_SEQ_GRUPO_DES" : "0",
+    "IE_SITUACAO" : "A",
+    "IE_DIC_OBJETO" : "S",
+    "IE_STATUS_HTML" : "A",
+    "DT_ATUALIZACAO" : "03/03/2026 12:10:53",
+    "IE_VERSAO_USO" : "H",
+    "IE_SITUACAO_WEB" : "A",
+    "NM_USUARIO" : "brpsouza",
+    "PR_FUNCAO_MODULO" : "0",
+    "CD_EXP_FUNCAO" : "1",
+    "IE_RELEVANTE_SBIS" : "N",
+    "DT_ATUALIZACAO_NREC" : "03/03/2026 12:10:53",
+    "IE_CLASSIF_PRODUTO" : "A",
+    "DS_ROTA" : "/cmdkltdf151",
+    "IE_SCHEMATIC_ARQUIVO" : "S",
+    "DS_APLICACAO" : "Tasy",
+    "IE_REGRA_FUNCIONAMENTO" : "N",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "CD_FUNCAO" : "99892",
+    "IE_CONFIRMA_FECHAR" : "N"
+  } ]
+}
